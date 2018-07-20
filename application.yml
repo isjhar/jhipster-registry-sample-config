@@ -4,12 +4,12 @@
 
 # Property used on app startup to check the config server status
 configserver:
-    name: JHipster Registry config server
-    status: Connected to the JHipster Registry config server, using https://github.com/jhipster/jhipster-registry-sample-config !
+    name: JHipster Registry Isjhar config server
+    status: Connected to the JHipster Registry config server, using https://github.com/isjhar/jhipster-registry-sample-config !
 
 # Default JWT secret token (to be changed in production!)
 jhipster:
     security:
         authentication:
             jwt:
-                secret: my-secret-token-to-change-in-production
+                secret: 548CC5CC987E3F853665378492F435A0
